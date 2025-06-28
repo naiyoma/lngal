@@ -125,13 +125,6 @@ python -m json.tool lngal_data.json
 # Or use online tools like JSONLint
 ```
 
-## 🔒 Security
-
-- Content Security Policy headers
-- No external dependencies
-- Input sanitization for all user data
-- HTTPS-only links encouraged
-
 ## 📈 Metrics
 
 Track project success through:
