@@ -115,7 +115,7 @@ cd lngal
 1. Edit `lngal_data.json`
 2. Open `index.html` in browser
 3. Verify changes appear correctly
-4. Test search and filtering
+4. Test search and filtering,
 
 ### JSON Validation
 ```bash
